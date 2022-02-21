@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "rapsberry petit four",
+      "rating": 4.5,
+      "category": "dessert",
+      "cost": 199,
+      "calories": 131,
+      "img": "https://images-gmi-pmc.edge-generalmills.com/5a0d7c12-022f-4f05-9b80-4e9b28dc7029.jpg"
+    },
+    {
+      "id": 2,
+      "name": "shortbread cookie",
+      "rating": 3,
+      "category": "dessert",
+      "cost": 89,
+      "calories": 142,
+      "img": "https://www.noracooks.com/wp-content/uploads/2019/12/IMG_9575.jpg"
+    },
+    {
+      "id": 3,
+      "name": "chocolate croissant",
+      "rating": 5,
+      "category": "dessert",
+      "cost": 295,
+      "calories": 470,
+      "img": "https://t4.ftcdn.net/jpg/02/81/07/59/240_F_281075992_X7unLnUXPnyhQcwiOtjtkeNUfQEshr44.jpg"
+    },
+    {
+      "id": 4,
+      "name": "red velvet cupcake",
+      "rating": 4.3,
+      "category": "dessert",
+      "cost": 349,
+      "calories": 439,
+      "img": "https://thenovicechefblog.com/wp-content/uploads/2010/09/Red-Velvet-Cupcakes-1-720x720.jpg"
+    },
+    {
+      "id": 5,
+      "name": "lemon square",
+      "rating": 4,
+      "category": "dessert",
+      "cost": 189,
+      "calories": 275,
+      "img": "https://images-gmi-pmc.edge-generalmills.com/48e8b8e5-409f-414c-96f7-cbb42afb43ef.jpg"
+    },
+    {
+      "id": 6,
+      "name": "pistachio macarons",
+      "rating": 5,
+      "category": "dessert",
+      "cost": 249,
+      "calories": 97,
+      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+    },
+    {
+      "id": 7,
+      "name": "pistachio macarons",
+      "rating": 3.5,
+      "category": "vegan",
+      "cost": 249,
+      "calories": 97,
+      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+    },
+    {
+      "id": 8,
+      "name": "pistachio macarons",
+      "rating": 4,
+      "category": "vegan",
+      "cost": 249,
+      "calories": 97,
+      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+    },
+    {
+      "id": 9,
+      "name": "pistachio macarons",
+      "rating": 5,
+      "category": "entree",
+      "cost": 249,
+      "calories": 97,
+      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+    },
+    {
+      "id": 10,
+      "name": "pistachio macarons",
+      "rating": 4.5,
+      "category": "entree",
+      "cost": 249,
+      "calories": 97,
+      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+    }
+  ],
+  "cart": [
+    {
+      "name": "rapsberry petit four",
+      "rating": 4.5,
+      "category": "dessert",
+      "cost": 199,
+      "calories": 131,
+      "img": "https://images-gmi-pmc.edge-generalmills.com/5a0d7c12-022f-4f05-9b80-4e9b28dc7029.jpg",
+      "productId": 1,
+      "quantity": 3,
+      "id": 1
+    },
+    {
+      "name": "shortbread cookie",
+      "rating": 3,
+      "category": "dessert",
+      "cost": 89,
+      "calories": 142,
+      "img": "https://www.noracooks.com/wp-content/uploads/2019/12/IMG_9575.jpg",
+      "productId": 2,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "name": "red velvet cupcake",
+      "rating": 4.3,
+      "category": "dessert",
+      "cost": 349,
+      "calories": 439,
+      "img": "https://thenovicechefblog.com/wp-content/uploads/2010/09/Red-Velvet-Cupcakes-1-720x720.jpg",
+      "productId": 4,
+      "quantity": 2,
+      "id": 3
+    },
+    {
+      "name": "lemon square",
+      "rating": 4,
+      "category": "dessert",
+      "cost": 189,
+      "calories": 275,
+      "img": "https://images-gmi-pmc.edge-generalmills.com/48e8b8e5-409f-414c-96f7-cbb42afb43ef.jpg",
+      "productId": 5,
+      "quantity": 3,
+      "id": 4
+    },
+    {
+      "name": "chocolate croissant",
+      "rating": 5,
+      "category": "dessert",
+      "cost": 295,
+      "calories": 470,
+      "img": "https://t4.ftcdn.net/jpg/02/81/07/59/240_F_281075992_X7unLnUXPnyhQcwiOtjtkeNUfQEshr44.jpg",
+      "productId": 3,
+      "quantity": 2,
+      "id": 5
+    }
+  ]
+}

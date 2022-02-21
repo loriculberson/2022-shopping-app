@@ -1,0 +1,13 @@
+.product-wrapper {
+  margin: 20px;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid lightgray;
+  flex: 1 1 200px;
+}
