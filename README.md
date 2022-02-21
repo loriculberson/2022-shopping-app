@@ -35,4 +35,7 @@ To run the fake backend service, run the terminal ```npm run server```.
 - add new route that is a child of Product list. Url should be `http://localhost:4000/products/:id`
 - function to display data about one product when you click the product card
 - fetch the product from the server so that the data. You'll need another hook called `useParams`. It's part of the `react-router-dom` library. This hook is used to access the `:id` in the url. Once we have the product id, we can make a `GET` request to the server to retrieve that one item. Check the `json-server` docs and the `useProducts` hook as a guide. 
-- **Bonus:** display whether or not it exists already in the cart, and if so, how many. 
+
+**Bonus:** 
+- display whether or not it exists already in the cart, and if so, how many. 
+- Add food category links to ProductList page. It would allow you to filter and display products by categories, like: `vegan` or `dessert`. Hint: `/products/:category`.
