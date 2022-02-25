@@ -38,4 +38,4 @@ To run the fake backend service, run the terminal ```npm run server```.
 
 **Bonus:** 
 - display whether or not it exists already in the cart, and if so, how many. 
-- Add food category links to ProductList page. It would allow you to filter and display products by categories, like: `vegan` or `dessert`. Hint: `/products/:category`.
+- Add food category links to ProductList page. It would allow you to filter and display products by categories, like: `vegan` or  `dessert`. Hint: `/products/:category`.

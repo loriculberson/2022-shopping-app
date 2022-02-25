@@ -56,21 +56,21 @@
     },
     {
       "id": 7,
-      "name": "pistachio macarons",
+      "name": "baked veggie salad",
       "rating": 3.5,
       "category": "vegan",
       "cost": 249,
       "calories": 97,
-      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+      "img": "https://media.istockphoto.com/photos/woman-hands-eating-vegan-salad-of-baked-vegetables-avocado-tofu-and-picture-id1293479617?b=1&k=20&m=1293479617&s=170667a&w=0&h=ATwH541D4NzgpnR4wUfgBwZWbpoGrBIsGQxkKbLzC6g="
     },
     {
       "id": 8,
-      "name": "pistachio macarons",
+      "name": "Veggie burger",
       "rating": 4,
       "category": "vegan",
       "cost": 249,
       "calories": 97,
-      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+      "img": "https://www.inspiredtaste.net/wp-content/uploads/2018/05/Homemade-Mushroom-Veggie-Burger-Recipe-1200-768x512.jpg"
     },
     {
       "id": 9,
@@ -83,12 +83,12 @@
     },
     {
       "id": 10,
-      "name": "pistachio macarons",
+      "name": "spaghetti and meatballs",
       "rating": 4.5,
       "category": "entree",
       "cost": 249,
       "calories": 97,
-      "img": "https://i2.wp.com/www.piesandtacos.com/wp-content/uploads/2018/10/pistachio-macarons-29.jpg?w=600&ssl=1"
+      "img": "https://www.jennycancook.com/wp-content/uploads/2015/08/quick-easy-spaghetti-meatballs.jpg"
     }
   ],
   "cart": [

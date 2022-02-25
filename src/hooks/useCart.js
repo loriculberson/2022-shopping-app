@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-export default function useProducts() {
+export default function useCart() {
   const [cart, setCart] = useState([]);
   const cartUrl = "http://localhost:4000/cart";
 
@@ -41,8 +41,8 @@ export default function useProducts() {
       const cartItem = { ...foundItem, quantity: foundItem.quantity + 1 };
       response = await axios.put(`${cartUrl}/${cartItem.id}`, cartItem);
       
-      const updatedCartItems = cart.map(item => 
-        item.productId === item.id ? response.data : item
+      const updatedCartItems = cart.map(i => 
+        i.productId === item.id ? response.data : i
       )
 
       setCart(updatedCartItems);
